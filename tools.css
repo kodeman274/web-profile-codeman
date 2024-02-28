@@ -1,0 +1,306 @@
+.componentdev {
+  background-image: linear-gradient(
+    109.6deg,
+    rgba(0, 0, 0, 0.5) 11.2%,
+    rgb(53, 156, 224) 91.1%
+  );
+}
+.headernew {
+  text-align: center;
+  color: #fff;
+  font-size: 2rem;
+  padding: 25px 50px;
+  z-index: 1;
+  position: relative;
+  margin: 30px;
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.1);
+  /* background-image: linear-gradient(20deg, #5af04c, #4cc9f0); */
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #2690e1;
+  /* border-left: 1px solid rgba(255, 255, 255, 0.5); */
+  backdrop-filter: blur(5px);
+}
+
+.headernew img {
+  width: 50px;
+  padding-left: 9px;
+  max-zoom: 1.2;
+}
+.headernew i {
+  width: 20px;
+  height: 20px;
+}
+.containernew {
+  font-family: "Josefin Sans", sans-serif;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  z-index: 1;
+}
+.containernew .card {
+  position: relative;
+  width: 300px;
+  height: 450px;
+  margin: 30px;
+  box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  background: rgba(255, 255, 255, 0.1);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  border-left: 1px solid rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(5px);
+}
+.containernew .card .gambarnew {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+  transform: translateY(0);
+  transition: 0.5s ease-out;
+}
+.containernew .card .gambarnew h2 {
+  border-radius: 10px;
+  padding: 10px;
+  border: 2px solid #979595;
+  margin-top: 210px;
+  cursor: default;
+  font-size: 1.2em;
+  color: white;
+  z-index: 1;
+  transform: translateY(0);
+  transition: 0.5s ease-out;
+}
+.containernew .card:hover h2 {
+  transform: translateY(-200px);
+  opacity: 0;
+}
+.containernew .card .gambarnew img {
+  width: 200px;
+  height: 250px;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  top: 10px;
+  text-align: center;
+  transform: translateY(0);
+  transition: 0.5s ease-out;
+}
+.containernew .card .konten {
+  padding: 20px;
+  text-align: center;
+  transform: translateY(320px);
+  opacity: 0;
+  transition: 0.5s ease-out;
+}
+.containernew .card:hover .konten {
+  opacity: 1;
+  transform: translateY(0px);
+}
+.containernew .card:hover img {
+  transform: translateY(-200px);
+  opacity: 0;
+}
+.containernew .card .konten h3 {
+  cursor: default;
+  margin-bottom: 25px;
+  font-size: 1.6em;
+  color: white;
+  z-index: 1;
+}
+.containernew .card .konten a {
+  position: relative;
+  display: inline-block;
+  padding: 8px 20px;
+  margin-top: 15px;
+  background: white;
+  color: black;
+  border-radius: 15px;
+  text-decoration: none;
+  font-weight: 700;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  transition: 0.2s;
+}
+.containernew .card .konten a:hover {
+  background-color: lightslategray;
+  color: white;
+  transform: scale(1.1);
+}
+
+/* Shape Style */
+.pembatas {
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.shape1 {
+  width: 700px;
+  height: 700px;
+  position: absolute;
+  top: -210px;
+  left: -270px;
+  border-radius: 50%;
+  background-image: linear-gradient(
+    109.6deg,
+    rgb(10, 44, 67) 11.2%,
+    rgb(45, 129, 171) 91.1%
+  );
+  animation: muter 4s linear infinite;
+}
+.shape2 {
+  width: 600px;
+  height: 600px;
+  position: absolute;
+  top: 420px;
+  right: -240px;
+  border-radius: 50%;
+  background-image: linear-gradient(
+    109.6deg,
+    rgb(10, 44, 67) 11.2%,
+    rgb(45, 129, 171) 91.1%
+  );
+  animation: muter 4s linear infinite;
+}
+.shape3 {
+  width: 550px;
+  height: 550px;
+  position: absolute;
+  top: 900px;
+  left: -195px;
+  border-radius: 50%;
+  background-image: linear-gradient(
+    109.6deg,
+    rgb(10, 44, 67) 11.2%,
+    rgb(45, 129, 171) 91.1%
+  );
+  animation: muter 4s linear infinite;
+}
+
+@keyframes muter {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+/* Akhir Shape Style */
+
+/* Media Breakpoints */
+
+@media only screen and (max-width: 800px) {
+  .shape1 {
+    width: 550px;
+    height: 550px;
+    left: -200px;
+  }
+  .shape2 {
+    width: 450px;
+    height: 450px;
+    right: -200px;
+  }
+  .shape3 {
+    width: 450px;
+    height: 450px;
+  }
+  .shape4 {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 1400px;
+    right: -250px;
+    border-radius: 50%;
+    background-image: linear-gradient(
+      109.6deg,
+      rgba(24, 138, 141, 1) 11.2%,
+      rgba(96, 221, 142, 1) 91.1%
+    );
+    animation: muter 4s linear infinite;
+  }
+  .shape5 {
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    top: 1800px;
+    left: -200px;
+    border-radius: 50%;
+    background-image: linear-gradient(
+      109.6deg,
+      rgba(24, 138, 141, 1) 11.2%,
+      rgba(96, 221, 142, 1) 91.1%
+    );
+    animation: muter 4s linear infinite;
+  }
+  .shape6 {
+    opacity: 0;
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 2300px;
+    right: -250px;
+    border-radius: 50%;
+    background-image: linear-gradient(
+      109.6deg,
+      rgba(24, 138, 141, 1) 11.2%,
+      rgba(96, 221, 142, 1) 91.1%
+    );
+    animation: muter 6s linear infinite;
+  }
+  .shape7 {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 3000px;
+    left: -180px;
+    border-radius: 50%;
+    background-image: linear-gradient(
+      109.6deg,
+      rgba(24, 138, 141, 1) 11.2%,
+      rgba(96, 221, 142, 1) 91.1%
+    );
+    animation: muter 4s linear infinite;
+  }
+  .shape8 {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    top: 3600px;
+    right: -200px;
+    border-radius: 50%;
+    background-image: linear-gradient(
+      109.6deg,
+      rgba(24, 138, 141, 1) 11.2%,
+      rgba(96, 221, 142, 1) 91.1%
+    );
+    animation: muter 4s linear infinite;
+  }
+}
+
+@media only screen and (max-width: 680px) {
+  .shape6 {
+    opacity: 1;
+  }
+}

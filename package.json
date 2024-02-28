@@ -1,0 +1,23 @@
+{
+  "name": "web-portofolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodeman274/hilman-webprofil.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^6.14.18"
+  },
+  "bugs": {
+    "url": "https://github.com/kodeman274/hilman-webprofil.github.io/issues"
+  },
+  "homepage": "https://github.com/kodeman274/hilman-webprofil.github.io#readme",
+  "dependencies": {}
+}
