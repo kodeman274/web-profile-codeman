@@ -65,7 +65,7 @@ This web profile is still under development, and I actively strive to add new fe
 
 ## Links
 
-- **Web Profile:** [your_web_profile_link]
+- **Web Profile:** [https://web-profile-codeman.vercel.app/]
 
 ## Documentation
 
@@ -117,8 +117,3 @@ This web profile serves as a platform to introduce myself, my skills, and my exp
 - JavaScript Tutorial: [https://www.w3schools.com/js/](https://www.w3schools.com/js/)
 - Animate.css: [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
 - Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
-
-**Remember to replace:**
-
-- `https://web-profile-codeman.vercel.app/` with the actual URL of your web profile.
-- Add specific details and functionalities to personalize the documentation further.
