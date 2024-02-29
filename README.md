@@ -1,25 +1,24 @@
 ## Web Profile - Dokumentasi
 
-## Demo
+## Documentasi demo
 
 <img src="img/web-profilev2-13.webp" alt="web-demo">
 
 **Table of Contents**
 
-- Project Description: #project-description
-- Tech Stack: #tech-stack
-- Features: #features
-- Usage: #usage
-- Notes: #notes
-- Links: #links
-- Documentation: #documentation
-  - HTML: #html
-  - CSS: #css
-  - JavaScript: #javascript
-  - Animate.css: #animate-css
-  - Google Font: #google-font
-- Conclusion: #conclusion
-- References: #references
+- [Project Description:](#project-description)
+- [Tech Stack:](#tech-stack)
+- [Features:](#features)
+- [Usage:](#usage)
+- [Notes:](#notes)
+- [Links:](#links)
+  - [HTML:](#html)
+  - [CSS:](#css)
+  - [JavaScript:](#javascript)
+  - [Animate.css:](#animate-css)
+  - [Google Font:](#google-font)
+- [Conclusion:]#conclusion)
+- [References:](#references)
 
 ## Project Description
 
