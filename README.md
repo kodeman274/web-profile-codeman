@@ -85,15 +85,14 @@ This web profile is still under development, and I actively strive to add new fe
 
 - Introduces interactivity to the website.
 - Utilized features include:
-  - Navigation menu display
   - Animation implementation
-  - Email sending functionality (if applicable)
+  - Button interaction
+  - Mouse implementation interaction
 
-### Animate.css
+### Animate Aos
 
 - Provides a library of CSS animations for visual appeal.
 - Used for:
-  - Loading screen animations
   - Scroll-triggered animations
 
 ### Google Font
@@ -114,5 +113,5 @@ This web profile serves as a platform to introduce myself, my skills, and my exp
 - SCSS Tutorial: [https://sass-lang.com/](https://sass-lang.com/)
 - Tailwind CSS Tutorial: [https://tailwindcss.com/](https://tailwindcss.com/)
 - JavaScript Tutorial: [https://www.w3schools.com/js/](https://www.w3schools.com/js/)
-- Animate.css: [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
+- Animate Aos: [https://michalsnik.github.io/aos/](https://michalsnik.github.io/aos/)
 - Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
