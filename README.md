@@ -56,7 +56,7 @@ The web profile offers various features, including:
 
 ## Usage
 
-Navigating the web profile is straightforward. Utilize the navigation menu to explore different sections. You can also download my CV and explore project examples.
+Navigating the web profile is straightforward. Utilize the navigation menu to explore different sections. You can also download my CV update and explore project examples.
 
 ## Notes
 
