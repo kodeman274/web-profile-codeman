@@ -29,7 +29,7 @@ This web profile serves as an introduction to my skills, experience, and backgro
 - **SCSS:** Preprocessor for CSS, enabling modularity and improved organization.
 - **Tailwind CSS:** Framework for rapid and efficient website development.
 - **JavaScript:** Adds interactive features to the website.
-- **Animate.css:** Library offering various CSS animations.
+- **Aos-Animate:** Implement animations for web.
 - **Google Font:** Integrates attractive and professional fonts.
 
 ## Tech Stack
@@ -39,7 +39,7 @@ This web profile serves as an introduction to my skills, experience, and backgro
 - SCSS
 - Tailwind CSS
 - JavaScript
-- Animate.css
+- Aos-Animate
 - Google Fonts
 
 ## Features
