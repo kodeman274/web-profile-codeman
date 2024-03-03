@@ -99,8 +99,13 @@ This web profile is still under development, and I actively strive to add new fe
 
 - Integrates visually appealing and professional fonts.
 - Used for:
+
   - Website title
   - Website content text
+
+  ### OpenGraph Meta Tags
+
+  - Reference meta tag for web profile
 
 ## Conclusion
 
@@ -115,3 +120,4 @@ This web profile serves as a platform to introduce myself, my skills, and my exp
 - JavaScript Tutorial: [https://www.w3schools.com/js/](https://www.w3schools.com/js/)
 - Animate Aos: [https://michalsnik.github.io/aos/](https://michalsnik.github.io/aos/)
 - Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
+- OpenGraph Meta Tags: [https://opengraph.dev/](https://opengraph.dev/)
