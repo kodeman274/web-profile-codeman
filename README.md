@@ -121,3 +121,5 @@ This web profile serves as a platform to introduce myself, my skills, and my exp
 - Animate Aos: [https://michalsnik.github.io/aos/](https://michalsnik.github.io/aos/)
 - Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
 - OpenGraph Meta Tags: [https://opengraph.dev/](https://opengraph.dev/)
+
+- Connect my LinkedIn : [https://www.linkedin.com/in/hilmanhidayat-kodeman274/]
