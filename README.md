@@ -41,6 +41,7 @@ This web profile serves as an introduction to my skills, experience, and backgro
 - JavaScript
 - Aos-Animate
 - Google Fonts
+- Icon Fonts Awesome
 
 ## Features
 
