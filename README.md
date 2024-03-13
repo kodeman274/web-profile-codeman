@@ -31,6 +31,7 @@ This web profile serves as an introduction to my skills, experience, and backgro
 - **JavaScript:** Adds interactive features to the website.
 - **Aos-Animate:** Implement animations for web.
 - **Google Font:** Integrates attractive and professional fonts.
+- **Icon Fonts Awesome:** Use icons from font awesome .
 
 ## Tech Stack
 
