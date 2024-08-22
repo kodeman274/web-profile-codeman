@@ -559,7 +559,7 @@ header.hide {
 }
 /* icon respinsive */
 .contact .container .socials1 {
-  margin-top: 10px;
+  position: center;
   width: 50%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -810,9 +810,7 @@ footer h3 {
   --gradient:
 } */
 body {
-  min-height: 100vh;
-  background-color: #eaeaea;
-  background-color: #1a1a1a;
+  background-image: url("img/webp/bg-web.webp");
 }
 
 .animate {
