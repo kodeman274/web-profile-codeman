@@ -354,8 +354,6 @@ header.hide {
 }
 
 .portfolio {
-  /* background: -webkit-gradient(linear, right top, left top, from(#262567), to(#2f0730));
-  background: linear-gradient(-90deg, #29286f, #2e082f); */
   background-color: #121717;
   padding-bottom: 50px;
 }
