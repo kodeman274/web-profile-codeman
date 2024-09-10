@@ -43,6 +43,7 @@
   align-items: center;
   flex-wrap: wrap;
   z-index: 1;
+  width: 90%;
 }
 .containernew .card {
   position: relative;
